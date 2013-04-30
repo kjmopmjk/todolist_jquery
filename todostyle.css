@@ -1,0 +1,15 @@
+
+.icon_img {
+	width: 20px;
+	height: 20px;
+
+}
+.delete {
+	background-color: white;
+	text-decoration: none;
+	border: none;
+}
+
+ul li {
+	text-decoration: none;
+}
